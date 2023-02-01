@@ -1,7 +1,0 @@
-version: '3.7'
-services:
-  os:
-    image: ubuntu
-    volumes:
-      - /tmp/:/tmp/
-# docker-compose run os

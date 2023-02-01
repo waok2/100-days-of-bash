@@ -1,3 +1,0 @@
-sed -i '' 's/to-be-replace/replacing/g' *(.)
-#update line 
-sed -i '/find-line/a line-to-insert' file
